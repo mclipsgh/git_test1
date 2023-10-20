@@ -2,3 +2,4 @@ this is the original
 edit for commit2
 edit for commit3
 edit for commit4
+edit for branch1 off commit4
