@@ -5,3 +5,4 @@ edit for commit4
 edit for branch1 off commit4
 edit for commit5 on branch1
 edit for commit6 on branch1
+edit for commit9 on branch1
